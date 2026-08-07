@@ -143,4 +143,3 @@ If you like my work, don't forget to ⭐ my repositories!
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:8A2BE2,100:6C63FF&height=120&section=footer"/>
 
 </p>
-````
