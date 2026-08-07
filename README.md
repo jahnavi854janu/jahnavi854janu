@@ -10,16 +10,6 @@ Hi 👋 I'm Banoth Jahnavi
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=1200&color=8A2BE2&center=true&vCenter=true&width=700&lines=B.Tech+Graduate;AI+%26+Machine+Learning+Enthusiast;Building+Real-World+Projects;Future+Software+Engineer;Always+Learning+🚀" />
 </p>
 
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=jahnavi854janu&label=Profile+Views&color=8A2BE2&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/jahnavi854janu?logo=github&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/stars/jahnavi854janu?affiliations=OWNER&style=for-the-badge"/>
-
-</p>
-
 ---
 
 # ✨ About Me
@@ -71,18 +61,6 @@ Current Focus:
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=jahnavi854janu&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahnavi854janu&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
@@ -98,16 +76,6 @@ Current Focus:
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=jahnavi854janu&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=jahnavi854janu&theme=tokyonight&no-frame=true&column=4"/>
 
 </p>
 
