@@ -1,68 +1,128 @@
-# Hi there, I'm Banoth Jahnavi 👋
+<h1 align="center">Hi 👋, I'm Banoth Jahnavi</h1>
 
-## 💫 About Me
+<h3 align="center">
+B.Tech Graduate • AI & ML Enthusiast • Full Stack Learner
+</h3>
 
-🎓 B.Tech Graduate in Computer Science & Engineering (Artificial Intelligence & Machine Learning)
-
-💻 I'm passionate about Artificial Intelligence, Machine Learning, and Full-Stack Development. I enjoy building real-world applications that solve practical problems and continuously expanding my technical skills.
-
-🚀 I'm currently seeking opportunities to start my career as a Software Engineer, AI/ML Engineer, Data Engineer, or Full Stack Developer in leading technology companies.
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=7F5AF0&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;AI+%7C+Machine+Learning+%7C+Full+Stack;Always+Learning+Something+New+🚀;Let's+Build+Something+Amazing!" />
+</p>
 
 ---
 
-## 🌱 Currently Learning
+## 💫 About Me
 
+✨ B.Tech Graduate in Computer Science & Engineering (AI & ML)
+
+💜 Passionate about solving real-world problems using Artificial Intelligence and modern web technologies.
+
+🌱 Currently exploring
 - Data Structures & Algorithms
-- Generative AI & Large Language Models
+- Generative AI
 - Cloud Computing
 - System Design
+
+🎯 Career Goal
+
+Become a Software Engineer who builds intelligent products that create real impact.
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🌾 Rice Leaf Disease Detection & Severity Prediction
-A deep learning-based application that identifies rice leaf diseases and predicts their severity using image classification.
+Deep Learning application that identifies rice leaf diseases and predicts severity from leaf images.
 
 ### 🚦 Smart Traffic Light System
-An intelligent traffic management system designed to improve traffic flow and reduce congestion.
+An intelligent traffic management solution to reduce congestion and improve traffic flow.
 
 ---
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
-**Languages**
-- Java
-- Python
-- SQL
-- JavaScript
+<p align="center">
 
-**Frontend**
-- HTML
-- CSS
-- React.js
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,nodejs,mysql,git,github,vscode" />
 
-**Backend**
-- Node.js
-
-**Database**
-- MySQL
-
-**Tools**
-- Git
-- GitHub
-- VS Code
+</p>
 
 ---
 
-## 📫 Connect With Me
+# 📊 GitHub Stats
 
-- 💼 LinkedIn: https://www.linkedin.com/in/jahnavibanoth/
-- 📧 Email: jahnavijanu854@gmail.com
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=jahnavi854janu&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahnavi854janu&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
-### ⭐ Thanks for visiting my profile!
+# 🔥 GitHub Streak
 
-*"Code. Learn. Build. Repeat."*
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=jahnavi854janu&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jahnavi854janu&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=jahnavi854janu&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/jahnavibanoth">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:jahnavijanu854@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=jahnavi854janu&label=Profile+Views&color=7F5AF0&style=for-the-badge"/>
+
+</p>
+
+---
+
+<h3 align="center">
+
+⭐ Thanks for visiting my profile ⭐
+
+</h3>
+
+<p align="center">
+
+<i>"Code. Learn. Build. Repeat."</i>
+
+</p>
 ```
