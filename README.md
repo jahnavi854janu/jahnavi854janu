@@ -1,60 +1,83 @@
-<h1 align="center">Hi 👋, I'm Banoth Jahnavi</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:8A2BE2,100:00C9FF&height=230&section=header&text=Banoth%20Jahnavi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20%7C%20Software%20Engineer&descAlignY=58"/>
+</p>
 
-<h3 align="center">
-B.Tech Graduate • AI & ML Enthusiast • Full Stack Learner
-</h3>
+<h1 align="center">
+Hi 👋 I'm Banoth Jahnavi
+</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=7F5AF0&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;AI+%7C+Machine+Learning+%7C+Full+Stack;Always+Learning+Something+New+🚀;Let's+Build+Something+Amazing!" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=1200&color=8A2BE2&center=true&vCenter=true&width=700&lines=B.Tech+Graduate;AI+%26+Machine+Learning+Enthusiast;Building+Real-World+Projects;Future+Software+Engineer;Always+Learning+🚀" />
+</p>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=jahnavi854janu&label=Profile+Views&color=8A2BE2&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/jahnavi854janu?logo=github&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/jahnavi854janu?affiliations=OWNER&style=for-the-badge"/>
+
 </p>
 
 ---
 
-## 💫 About Me
+# ✨ About Me
 
-✨ B.Tech Graduate in Computer Science & Engineering (AI & ML)
+```yaml
+Name: Banoth Jahnavi
 
-💜 Passionate about solving real-world problems using Artificial Intelligence and modern web technologies.
+Education:
+  B.Tech Graduate
+  Computer Science & Engineering (AI & ML)
 
-🌱 Currently exploring
-- Data Structures & Algorithms
-- Generative AI
-- Cloud Computing
-- System Design
+Interests:
+  - Artificial Intelligence
+  - Machine Learning
+  - Full Stack Development
+  - Problem Solving
 
-🎯 Career Goal
+Career Goal:
+  Build intelligent software that solves
+  real-world problems.
 
-Become a Software Engineer who builds intelligent products that create real impact.
+Current Focus:
+  - Data Structures & Algorithms
+  - Generative AI
+  - Cloud Computing
+```
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 ### 🌾 Rice Leaf Disease Detection & Severity Prediction
-Deep Learning application that identifies rice leaf diseases and predicts severity from leaf images.
-
-### 🚦 Smart Traffic Light System
-An intelligent traffic management solution to reduce congestion and improve traffic flow.
+> Deep Learning application for identifying rice leaf diseases and predicting disease severity.
 
 ---
 
-# 💻 Tech Stack
+### 🚦 Smart Traffic Light System
+> Smart traffic optimization system designed to reduce congestion using intelligent traffic control.
+
+---
+
+# ⚡ Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,nodejs,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,react,nodejs,mysql,git,github,vscode"/>
 
 </p>
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jahnavi854janu&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=jahnavi854janu&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahnavi854janu&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahnavi854janu&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -80,11 +103,11 @@ An intelligent traffic management solution to reduce congestion and improve traf
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Achievements
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=jahnavi854janu&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=jahnavi854janu&theme=tokyonight&no-frame=true&column=4"/>
 
 </p>
 
@@ -94,7 +117,7 @@ An intelligent traffic management solution to reduce congestion and improve traf
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/jahnavibanoth">
+<a href="https://www.linkedin.com/in/jahnavibanoth/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -106,23 +129,39 @@ An intelligent traffic management solution to reduce congestion and improve traf
 
 ---
 
+# 💭 Quote
+
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=jahnavi854janu&label=Profile+Views&color=7F5AF0&style=for-the-badge"/>
+> **"Dream big. Learn continuously. Build fearlessly."**
 
 </p>
 
 ---
 
-<h3 align="center">
+<p align="center">
 
-⭐ Thanks for visiting my profile ⭐
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
-</h3>
+</p>
+
+---
+
+<h2 align="center">
+
+⭐ Thank you for visiting my profile ⭐
+
+</h2>
 
 <p align="center">
 
-<i>"Code. Learn. Build. Repeat."</i>
+If you like my work, don't forget to ⭐ my repositories!
 
 </p>
-```
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:8A2BE2,100:6C63FF&height=120&section=footer"/>
+
+</p>
+````
