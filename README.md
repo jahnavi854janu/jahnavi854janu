@@ -2,10 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:8A2BE2,100:00C9FF&height=230&section=header&text=Banoth%20Jahnavi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20%7C%20Software%20Engineer&descAlignY=58"/>
 </p>
 
-<h1 align="center">
-Hi 👋 I'm Banoth Jahnavi
-</h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=700&color=8A2BE2&lines=B.Tech+Graduate;AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer;Welcome+to+my+GitHub!" />
 </p>
