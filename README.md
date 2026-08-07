@@ -7,7 +7,7 @@ Hi 👋 I'm Banoth Jahnavi
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=700&color=8A2BE2&lines=Hi+%F0%9F%91%8B+I'm+Banoth+Jahnavi;B.Tech+Graduate;AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer;Welcome+to+my+GitHub!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=700&color=8A2BE2&lines=B.Tech+Graduate;AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer;Welcome+to+my+GitHub!" />
 </p>
 
 ---
