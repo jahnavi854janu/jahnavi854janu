@@ -49,9 +49,6 @@ Explore my projects, technical skills, certifications, and journey as an AI & Ma
 </p>
 
 ---
-```
-
----
 
 # 🚀 Featured Projects
 
